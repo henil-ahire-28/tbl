@@ -62,3 +62,7 @@ class BubbleSort {
 		}
 	}
 }
+
+
+// public int compare(Student a, Student b) {
+                return a.name.compareToIgnoreCase(b.name);
